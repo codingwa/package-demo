@@ -1,0 +1,20 @@
+{
+    "name": "xiaohai/lara",
+    "description": "This is a test.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaohai",
+            "email": "xiaohai@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xiaohai\\Lara\\": "src/"
+        }
+    },
+    "version": "1.1"
+}
